@@ -1,0 +1,209 @@
+[
+  {
+    "id": "V01",
+    "nameInput": "Meera Verma",
+    "emailInput": "MEERA@EXAMPLE.COM",
+    "nameValid": true,
+    "emailValid": true,
+    "normalizedName": "Meera Verma",
+    "normalizedEmail": "meera@example.com"
+  },
+  {
+    "id": "V02",
+    "nameInput": "  Asha   Rao  ",
+    "emailInput": " asha@example.com ",
+    "nameValid": true,
+    "emailValid": true,
+    "normalizedName": "Asha Rao",
+    "normalizedEmail": "asha@example.com"
+  },
+  {
+    "id": "V03",
+    "nameInput": "O’Neil",
+    "emailInput": "oneil@example.org",
+    "nameValid": true,
+    "emailValid": true,
+    "normalizedName": "O’Neil",
+    "normalizedEmail": "oneil@example.org"
+  },
+  {
+    "id": "V04",
+    "nameInput": "李明",
+    "emailInput": "li@example.org",
+    "nameValid": true,
+    "emailValid": true,
+    "normalizedName": "李明",
+    "normalizedEmail": "li@example.org"
+  },
+  {
+    "id": "V05",
+    "nameInput": "Jean-Luc",
+    "emailInput": "jean+work@studio.example",
+    "nameValid": true,
+    "emailValid": true,
+    "normalizedName": "Jean-Luc",
+    "normalizedEmail": "jean+work@studio.example"
+  },
+  {
+    "id": "V06",
+    "nameInput": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "emailInput": "long@example.org",
+    "nameValid": true,
+    "emailValid": true,
+    "normalizedName": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "normalizedEmail": "long@example.org"
+  },
+  {
+    "id": "N01",
+    "nameInput": "",
+    "emailInput": "name@example.org",
+    "nameValid": false,
+    "emailValid": true,
+    "normalizedName": null,
+    "normalizedEmail": "name@example.org"
+  },
+  {
+    "id": "N02",
+    "nameInput": "A",
+    "emailInput": "name@example.org",
+    "nameValid": false,
+    "emailValid": true,
+    "normalizedName": null,
+    "normalizedEmail": "name@example.org"
+  },
+  {
+    "id": "N03",
+    "nameInput": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "emailInput": "name@example.org",
+    "nameValid": false,
+    "emailValid": true,
+    "normalizedName": null,
+    "normalizedEmail": "name@example.org"
+  },
+  {
+    "id": "N04",
+    "nameInput": "Meera123",
+    "emailInput": "name@example.org",
+    "nameValid": false,
+    "emailValid": true,
+    "normalizedName": null,
+    "normalizedEmail": "name@example.org"
+  },
+  {
+    "id": "N05",
+    "nameInput": "<b>Meera</b>",
+    "emailInput": "name@example.org",
+    "nameValid": false,
+    "emailValid": true,
+    "normalizedName": null,
+    "normalizedEmail": "name@example.org"
+  },
+  {
+    "id": "N06",
+    "nameInput": "--''",
+    "emailInput": "name@example.org",
+    "nameValid": false,
+    "emailValid": true,
+    "normalizedName": null,
+    "normalizedEmail": "name@example.org"
+  },
+  {
+    "id": "E01",
+    "nameInput": "Asha Rao",
+    "emailInput": "",
+    "nameValid": true,
+    "emailValid": false,
+    "normalizedName": "Asha Rao",
+    "normalizedEmail": null
+  },
+  {
+    "id": "E02",
+    "nameInput": "Asha Rao",
+    "emailInput": "asha.example.org",
+    "nameValid": true,
+    "emailValid": false,
+    "normalizedName": "Asha Rao",
+    "normalizedEmail": null
+  },
+  {
+    "id": "E03",
+    "nameInput": "Asha Rao",
+    "emailInput": "a@@example.org",
+    "nameValid": true,
+    "emailValid": false,
+    "normalizedName": "Asha Rao",
+    "normalizedEmail": null
+  },
+  {
+    "id": "E04",
+    "nameInput": "Asha Rao",
+    "emailInput": "a b@example.org",
+    "nameValid": true,
+    "emailValid": false,
+    "normalizedName": "Asha Rao",
+    "normalizedEmail": null
+  },
+  {
+    "id": "E05",
+    "nameInput": "Asha Rao",
+    "emailInput": "a@example",
+    "nameValid": true,
+    "emailValid": false,
+    "normalizedName": "Asha Rao",
+    "normalizedEmail": null
+  },
+  {
+    "id": "E06",
+    "nameInput": "Asha Rao",
+    "emailInput": "a@example..org",
+    "nameValid": true,
+    "emailValid": false,
+    "normalizedName": "Asha Rao",
+    "normalizedEmail": null
+  },
+  {
+    "id": "E07",
+    "nameInput": "Asha Rao",
+    "emailInput": ".asha@example.org",
+    "nameValid": true,
+    "emailValid": false,
+    "normalizedName": "Asha Rao",
+    "normalizedEmail": null
+  },
+  {
+    "id": "E08",
+    "nameInput": "Asha Rao",
+    "emailInput": "asha.@example.org",
+    "nameValid": true,
+    "emailValid": false,
+    "normalizedName": "Asha Rao",
+    "normalizedEmail": null
+  },
+  {
+    "id": "E09",
+    "nameInput": "Asha Rao",
+    "emailInput": "asha@example.org.",
+    "nameValid": true,
+    "emailValid": false,
+    "normalizedName": "Asha Rao",
+    "normalizedEmail": null
+  },
+  {
+    "id": "E10",
+    "nameInput": "Asha Rao",
+    "emailInput": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa@example.org",
+    "nameValid": true,
+    "emailValid": false,
+    "normalizedName": "Asha Rao",
+    "normalizedEmail": null
+  },
+  {
+    "id": "B01",
+    "nameInput": " ",
+    "emailInput": "invalid",
+    "nameValid": false,
+    "emailValid": false,
+    "normalizedName": null,
+    "normalizedEmail": null
+  }
+]

@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.DS_Store
+.chrome-test-*/
+.chrome-cdp/
+.edge-test/
+INPUT_FILES/
+RESOURCE_LINKS.txt
+START_HERE.txt
+SUBMISSION_CHECKLIST.txt
+tablet-edge.png
+
+.vercel

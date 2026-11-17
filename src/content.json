@@ -1,0 +1,39 @@
+{
+  "brand": "Meera Verma",
+  "series": "WORKSHOP SERIES",
+  "eyebrow": "FREE ONLINE WORKSHOP",
+  "headline": "Make space for your best work.",
+  "intro": "A practical session on planning priorities, setting boundaries and building a calmer weekly routine.",
+  "date": "4 December 2026",
+  "time": "6:00 PM IST",
+  "duration": "60 minutes",
+  "cta": "Reserve my place",
+  "learnHeading": "Leave with a clearer plan.",
+  "benefits": [
+    { "id": "priorities", "title": "Pick what matters", "body": "Turn a long list into three useful priorities." },
+    { "id": "focus", "title": "Protect your focus", "body": "Create small boundaries that make deep work easier." },
+    { "id": "rhythm", "title": "Build a weekly rhythm", "body": "Use a repeatable review to start each week with intent." }
+  ],
+  "agendaHeading": "An hour with a clear purpose.",
+  "agenda": [
+    { "id": "reset", "time": "00-10 minutes", "title": "Reset the week", "body": "Spot where your time and attention go." },
+    { "id": "plan", "time": "10-40 minutes", "title": "Plan with purpose", "body": "Use practical priority and focus exercises." },
+    { "id": "routine", "time": "40-60 minutes", "title": "Make it stick", "body": "Choose one routine and ask your questions." }
+  ],
+  "registerHeading": "A small step toward a calmer week.",
+  "registerBody": "Join Meera Verma for a focused, practical session. Bring a notebook and one goal you want to make space for.",
+  "facilitator": "Meera Verma",
+  "facilitatorLabel": "Session facilitator",
+  "nameLabel": "Full name",
+  "emailLabel": "Email address",
+  "submitLabel": "Register",
+  "formHint": "Only name and email are needed.",
+  "success": "Thanks, {name}. Your details have been accepted.",
+  "privacy": "Form entries are checked in your browser and are not transmitted or stored.",
+  "footer": "© 2026 Meera Verma. A little clarity goes a long way.",
+  "namePlaceholder": "Your full name",
+  "emailPlaceholder": "you@example.com",
+  "nameError": "Enter your name (2–60 letters, spaces, apostrophes or hyphens).",
+  "emailError": "Enter a valid email address.",
+  "nav": { "learn": "What you learn", "agenda": "Agenda", "register": "Register", "privacy": "Privacy" }
+}
